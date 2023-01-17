@@ -94,7 +94,7 @@ const Product = ({ item, provider, account, dappazon, togglePop }) => {
             <small>Ships from</small> Dappazon
           </p>
           <p>
-            <small>Sold by</small> Venu
+            <small>Sold by</small> Dappazon
           </p>
 
           {order && (
